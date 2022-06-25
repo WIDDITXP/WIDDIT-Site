@@ -1,3 +1,7 @@
+* {
+  color: white;
+}
+
 #bgimg {
   background-image: url("spacebg.jpeg")
 }
