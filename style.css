@@ -30,11 +30,12 @@ header h1 {
 }
 
 p {
-  margin: 10px;
+  margin: 10px auto;
 }
 
 img {
   height: 180px;
+  margin: 10px auto;
 }
 
 
