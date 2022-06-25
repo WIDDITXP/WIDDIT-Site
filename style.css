@@ -34,7 +34,8 @@ p {
   margin: 10px auto;
 }
 
-img {
+img.evashop {
+  background-color: white;
   height: 180px;
   margin: 10px auto;
 }
