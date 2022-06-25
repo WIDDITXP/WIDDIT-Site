@@ -1,9 +1,11 @@
 article.intro {
   border: 1px solid black;
-  width: 200px;
+  margin: 10px auto;
 }
 
 header h1 {
     text-align: center;
 }
+
+
 
