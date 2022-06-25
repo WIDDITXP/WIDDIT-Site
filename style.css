@@ -1,6 +1,7 @@
 * {
   color: white;
   margin: 0px;
+  border: border-box;
 }
 
 html {
@@ -22,6 +23,7 @@ div{
 article.intro {
   border: 1px solid white;
   margin: 10px 250px;
+  padding: 0px 10px;
 }
 
 header h1 {
