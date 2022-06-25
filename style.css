@@ -2,8 +2,16 @@
   color: white;
 }
 
+html {
+  margin: 0px;
+}
+
+div{
+  margin: 0px;
+}
+
 #bgimg {
-  background-image: url("spacebg.jpeg")
+  background-image: url("spacebg.jpeg");
 }
 
 article.intro {
