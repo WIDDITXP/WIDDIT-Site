@@ -1,5 +1,5 @@
 #bgimg {
-  background-image: src("spacbg.jpeg")
+  background-image: url("spacbg.jpeg")
 }
 
 article.intro {
