@@ -28,6 +28,10 @@ header h1 {
     text-align: center;
 }
 
+p {
+  margin: 10px;
+}
+
 img {
   height: 180px;
 }
